@@ -101,6 +101,11 @@ Loading the data
     • Construct the 4 plots in just one R file called plots.R. Write some comments in your R script to
       separate each part of the script for each plot. Your code should include code for reading the data
       so that the plot can be fully reproduced. Include also the code that creates the PNG file. 
+
+* hello
+*hello*
+**hello**
+_hello_ 
       
     • Name each of the generated plot files as plot1.png, plot2.png, plot3.png, and plot4.png.
  
