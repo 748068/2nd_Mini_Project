@@ -105,7 +105,8 @@ Loading the data
 * hello
 *hello*
 **hello**
-_hello_ 
+_hello_
+*hello 
       
     • Name each of the generated plot files as plot1.png, plot2.png, plot3.png, and plot4.png.
  
