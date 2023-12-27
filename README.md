@@ -102,11 +102,7 @@ Loading the data
       separate each part of the script for each plot. Your code should include code for reading the data
       so that the plot can be fully reproduced. Include also the code that creates the PNG file. 
 
-* hello
-*hello*
-**hello**
-_hello_
-*hello 
+
       
     • Name each of the generated plot files as plot1.png, plot2.png, plot3.png, and plot4.png.
  
